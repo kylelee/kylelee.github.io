@@ -9,7 +9,7 @@ Linux Rust 开发者，关注高性能数据分析和量化分析。
 **A security-hardened TUI e-mail client that resists sender tracking & malicious content.**
 抵御发件人追踪与恶意内容的终端邮件客户端。
 
-- 🛡️ CVE-tested security hardening & UX optimizations on top of [meli](https://github.com/meli/meli)
+- 🛡️ CVE-tested security hardening & UX optimizations on top of meli
 - 📬 Speaks IMAP · Maildir · mbox · notmuch · JMAP · NNTP (Usenet)
 - 🕶️ Keeps trackers and malicious content away from your inbox
 
@@ -35,12 +35,9 @@ Linux Rust 开发者，关注高性能数据分析和量化分析。
 **Hyprland-style automatic window tiling, right inside GNOME.**
 在 GNOME 环境下获得 Hyprland 风格的自动平铺窗口管理。
 
-- 🧩 Fork of [Tiling Shell](https://github.com/domferr/tilingshell), extended with Omarchy 4.0 / Hyprland-style window management
+- 🧩 Fork of Tiling Shell, extended with Omarchy 4.0 / Hyprland-style window management
 - ⌨️ Keyboard-driven workflow without leaving the GNOME desktop
 - 🎯 Goal: daily-drive tiling-window ergonomics while keeping the GNOME ecosystem
 
 `TypeScript` · `GNOME Shell Extension` · `GPL-3.0`
 
----
-
-*$ echo "Thanks for visiting · 感谢到访"* ✌️
