@@ -4,7 +4,10 @@
 
 ### Rust developer · Linux desktop tinkerer 🐧
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1300&amp;color=1F6FEB&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=building+privacy-first+tools+%F0%9F%9B%A1%EF%B8%8F;hardening+e-mail+clients+%F0%9F%93%AC;watching+AI+quotas+%F0%9F%93%8A;tiling+GNOME+windows+%F0%9F%AA%9F" alt="" width="620" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1300&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=building+privacy-first+tools+%F0%9F%9B%A1%EF%B8%8F;hardening+e-mail+clients+%F0%9F%93%AC;watching+AI+quotas+%F0%9F%93%8A;tiling+GNOME+windows+%F0%9F%AA%9F" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1300&amp;color=1F6FEB&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=building+privacy-first+tools+%F0%9F%9B%A1%EF%B8%8F;hardening+e-mail+clients+%F0%9F%93%AC;watching+AI+quotas+%F0%9F%93%8A;tiling+GNOME+windows+%F0%9F%AA%9F" alt="" width="620" />
+</picture>
 
 I build **privacy-first, security-hardened** tools for the terminal & Linux desktop.
 我在终端与 Linux 桌面生态里，构建注重隐私与安全加固的开源工具。
@@ -13,7 +16,7 @@ I build **privacy-first, security-hardened** tools for the terminal & Linux desk
 
 ---
 
-## 🚀 Featured Projects · 开源项目
+## 🧰 Featured Projects · 开源项目
 
 ### 🔐 [hardened-meli](https://github.com/kylelee/hardened-meli)
 
@@ -26,9 +29,9 @@ I build **privacy-first, security-hardened** tools for the terminal & Linux desk
 
 <p>
   <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&amp;logo=rust&amp;logoColor=black" alt="Rust" />
-  <img src="https://img.shields.io/badge/security-CVE--tested-brightgreen?style=flat-square" alt="CVE tested" />
-  <img src="https://img.shields.io/github/last-commit/kylelee/hardened-meli?style=flat-square&amp;color=blue" alt="last commit" />
-  <img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square" alt="GPL-3.0" />
+  <img src="https://img.shields.io/badge/security-CVE--tested-1a7f37?style=flat-square" alt="CVE tested" />
+  <img src="https://img.shields.io/github/last-commit/kylelee/hardened-meli?style=flat-square&amp;color=59636e" alt="last commit" />
+  <img src="https://img.shields.io/badge/license-GPL--3.0-59636e?style=flat-square" alt="GPL-3.0" />
 </p>
 
 ---
@@ -45,8 +48,8 @@ I build **privacy-first, security-hardened** tools for the terminal & Linux desk
 <p>
   <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&amp;logo=rust&amp;logoColor=black" alt="Rust" />
   <img src="https://img.shields.io/badge/Z.AI-enterprise%20%2B%20multi--account-8a2be2?style=flat-square" alt="Z.AI enterprise" />
-  <img src="https://img.shields.io/github/last-commit/kylelee/ai-usagebar?style=flat-square&amp;color=blue" alt="last commit" />
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT" />
+  <img src="https://img.shields.io/github/last-commit/kylelee/ai-usagebar?style=flat-square&amp;color=59636e" alt="last commit" />
+  <img src="https://img.shields.io/badge/license-MIT-59636e?style=flat-square" alt="MIT" />
 </p>
 
 ---
@@ -63,8 +66,8 @@ I build **privacy-first, security-hardened** tools for the terminal & Linux desk
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/GNOME-Shell%20Extension-4a86cf?style=flat-square&amp;logo=gnome&amp;logoColor=white" alt="GNOME" />
-  <img src="https://img.shields.io/github/last-commit/kylelee/auto-tile?style=flat-square&amp;color=blue" alt="last commit" />
-  <img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square" alt="GPL-3.0" />
+  <img src="https://img.shields.io/github/last-commit/kylelee/auto-tile?style=flat-square&amp;color=59636e" alt="last commit" />
+  <img src="https://img.shields.io/badge/license-GPL--3.0-59636e?style=flat-square" alt="GPL-3.0" />
 </p>
 
 ---
@@ -82,6 +85,6 @@ I build **privacy-first, security-hardened** tools for the terminal & Linux desk
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:58a6ff,100:1f6feb&amp;height=110&amp;section=footer" width="100%" alt="" />
 
-<sub>Thanks for visiting · 感谢到访 ✌️</sub>
+<sub>$ echo "Thanks for visiting · 感谢到访" ✌️</sub>
 
 </div>
